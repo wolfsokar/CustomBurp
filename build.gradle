@@ -9,6 +9,6 @@ repositories {
 }
 
 dependencies {
-    implementation 'net.portswigger.burp.extender:burp-extender-api:2.2'
-    testImplementation files('C:\\burpsuite_pro.jar')
+    implementation 'net.portswigger.burp.extender:burp-extender-api:2.3'
+    testImplementation files('C:\\PATH\\burpsuite_pro.jar')
 }
